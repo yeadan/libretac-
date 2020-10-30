@@ -1,5 +1,5 @@
 # LibretaC#
-__Primera versión de listín de teléfonos en C#s__   
+__Primera versión de listín de teléfonos en C#__   
 
 ## Descripción
 Tenemos una libreta de direcciones que se encuentra en un fichero de texto .csv, creado en https://extendsclass.com, de la forma:   
