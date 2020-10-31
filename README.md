@@ -10,7 +10,7 @@ Miguel Castán | Madrid | 2234234252
    
 El archivo dispone de unos 200.000 registros y tenemos la posibilidad de hacer listados por nombre, apellido o ciudad y también de listar nombres o apellidos dentro de una ciudad.    
    
-La implementaciín se ha llevado a cabo con un dictionary del tipo "string,dictionary(string,string)", haciendo un diccionario por ciudades y en cada ciudad ponerle su par persona/teléfono. Se han escogido los dictionaries porque para las búsquedas tiene un tiempo de ejecución de O(1), ya que está implementado siguiendo el concepto de las tablas de Hashing, y además elimina las posibles líneas repetidas.   
+La implementación se ha llevado a cabo con un dictionary del tipo "string,dictionary(string,string)", haciendo un diccionario por ciudades y en cada ciudad ponerle su par persona/teléfono. Se han escogido los dictionaries porque para las búsquedas tiene un tiempo de ejecución de O(1), ya que está implementado siguiendo el concepto de las tablas de Hashing, y además elimina las posibles líneas repetidas.   
    
 El proyecto ha sido creado con VS Code y .NET Core.   
    
